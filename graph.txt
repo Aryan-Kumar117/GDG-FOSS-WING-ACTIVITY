@@ -58,3 +58,50 @@
   Date:   Mon Oct 13 13:43:07 2025 +0530
   
       Initial commit
+* commit c3731fd6580ddb0a86e8b78f055c0ab07c5f542f
+| Author: Aryan-Kumar117 <aryan.kumar9791@gmail.com>
+| Date:   Tue Oct 21 18:21:03 2025 +0530
+| 
+|     LIT2025016: Added output of git log --graph
+| 
+* commit 66d8331d395164ea42689506e7d2b6e7f36e0045
+| Author: Aryan-Kumar117 <aryan.kumar9791@gmail.com>
+| Date:   Tue Oct 21 18:00:43 2025 +0530
+| 
+|     LIT2025016: Created app.js
+| 
+* commit c3d217161fa0d96bd4d36eb0bd728a60b2d69866
+| Author: Aryan-Kumar117 <aryan.kumar9791@gmail.com>
+| Date:   Tue Oct 21 17:56:16 2025 +0530
+| 
+|     LIT2025016: Created style.css
+| 
+* commit 34e109952010eb5050e5521896e0ad9d7c435cb0
+| Author: Aryan-Kumar117 <aryan.kumar9791@gmail.com>
+| Date:   Tue Oct 21 18:01:57 2025 +0530
+| 
+|     LIT2025016: Linked app.js to HTML file
+| 
+* commit 421b87712f9595cc1e8ef8fa0f1c438c4680b801
+| Author: Aryan-Kumar117 <aryan.kumar9791@gmail.com>
+| Date:   Tue Oct 21 17:57:51 2025 +0530
+| 
+|     LIT2025016: Linked index.html to style.css
+| 
+* commit 637a7710d9dc43e45ef2361986e9583d605a3d9f
+| Author: Aryan-Kumar117 <aryan.kumar9791@gmail.com>
+| Date:   Tue Oct 21 17:49:49 2025 +0530
+| 
+|     LIT2025016: Created index.html
+| 
+* commit 27da22cd13ed9f20439d85546bf6c8315d107b56
+| Author: Vennela Varshini Anasoori <vennelavarshini07@gmail.com>
+| Date:   Mon Oct 13 22:51:48 2025 +0530
+| 
+|     LIT2025016: Squashed README updates and bonus content
+| 
+* commit a5698ad56234c53f9ab3c1aa64b9be2bf4a5e005
+  Author: Vennela Varshini Anasoori <vennelavarshini07@gmail.com>
+  Date:   Mon Oct 13 13:43:07 2025 +0530
+  
+      Initial commit
