@@ -1,0 +1,60 @@
+*   commit 3d0dc6287197598ddbaf83b19ee6dcfd79d2b59d
+|\  Merge: a7747b2 82e48ac
+| | Author: Aryan-Kumar117 <aryan.kumar9791@gmail.com>
+| | Date:   Tue Oct 21 18:15:44 2025 +0530
+| | 
+| |     LIT2025016: Merged branch 'LIT2025016_JS'
+| | 
+| * commit 82e48ac7e95a36f53e66c8018421c19e3d6a9ae7
+| | Author: Aryan-Kumar117 <aryan.kumar9791@gmail.com>
+| | Date:   Tue Oct 21 18:00:43 2025 +0530
+| | 
+| |     LIT2025016: Created app.js
+| | 
+* | commit a7747b2b982c2b04cf3ea42be6e3c3e1769ae444
+| | Author: Aryan-Kumar117 <aryan.kumar9791@gmail.com>
+| | Date:   Tue Oct 21 17:56:16 2025 +0530
+| | 
+| |     LIT2025016: Created style.css
+| | 
+* | commit 2b8e065bb38a0de0780f8f99a5d76397ab35ab65
+| | Author: Aryan-Kumar117 <aryan.kumar9791@gmail.com>
+| | Date:   Tue Oct 21 18:01:57 2025 +0530
+| | 
+| |     LIT2025016: Linked app.js to HTML file
+| | 
+* | commit 8cff13870ab5cd5ba8939a4cbb42ab3dfaed818d
+| | Author: Aryan-Kumar117 <aryan.kumar9791@gmail.com>
+| | Date:   Tue Oct 21 17:57:51 2025 +0530
+| | 
+| |     LIT2025016: Linked index.html to style.css
+| | 
+* | commit e5e84cfe5a5f075b266409d0628d6cbf33d16570
+|/  Author: Aryan-Kumar117 <aryan.kumar9791@gmail.com>
+|   Date:   Tue Oct 21 17:49:49 2025 +0530
+|   
+|       LIT2025016: Created index.html
+| 
+* commit 9a1e800536c89da53e08a0cbb2361df85936588e
+| Author: Aaryan Dadu <aaryandadu5157@gmail.com>
+| Date:   Tue Oct 14 02:07:32 2025 +0530
+| 
+|     bonus added
+| 
+* commit 39b93213076338d8ba62c7e29367d388d0503ab4
+| Author: Aaryan Dadu <aaryandadu5157@gmail.com>
+| Date:   Tue Oct 14 01:48:34 2025 +0530
+| 
+|     Updated README.md
+| 
+* commit bff6db554f7a545d202aa5cb050f009549a1b0ed
+| Author: Vennela Varshini Anasoori <vennelavarshini07@gmail.com>
+| Date:   Mon Oct 13 22:51:48 2025 +0530
+| 
+|     Update README.md
+| 
+* commit a5698ad56234c53f9ab3c1aa64b9be2bf4a5e005
+  Author: Vennela Varshini Anasoori <vennelavarshini07@gmail.com>
+  Date:   Mon Oct 13 13:43:07 2025 +0530
+  
+      Initial commit
